@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Brayden Dawson
+Sudent Email:  bcdawson@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+In this assignment, I learned how to use Streamlit to build an interactive data browser and how to manipulate data with pandas. The challenge was handling file uploads, correctly processing different file types (CSV, Excel, JSON), and implementing dynamic column and row filtering. I struggled a bit with extracting file extensions and filtering data based on user input, but I was able to work through these issues. Going forward, I need more practice with Streamlit and advanced pandas techniques like grouping and aggregating data. This assignment helped me improve my ability to build interactive apps and manipulate datasets effectively.
